@@ -1,0 +1,14 @@
+{
+  "name": "gulp-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Diego Rubilar",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^6.0.0"
+  }
+}
