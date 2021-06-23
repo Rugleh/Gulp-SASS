@@ -1,5 +1,5 @@
 /*
---- Gulp Boilerplate file for front-end component based development
+--- Gulp Boilerplate file for front-end block based development
 --- Author: Diego Rubilar
 --- Year: 2021
 */
