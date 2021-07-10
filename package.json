@@ -10,5 +10,8 @@
     "gulp-file-include": "^2.3.0",
     "gulp-sass": "^4.1.0",
     "node-sass": "^6.0.0"
+  },
+  "dependencies": {
+    "yarn": "^1.22.10"
   }
 }
