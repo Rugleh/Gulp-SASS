@@ -1,12 +1,15 @@
 ## Gulp + SASS compiler for Block based development
 
 npm install --global yarn
+
 yarn install
+
 yarn gulp
 
 ### Rutas
 
 htpps://localhost:3000
+
 htpps://localhost:3000/nombrearchivo.html
 
 ### Features
